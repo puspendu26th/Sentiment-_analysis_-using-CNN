@@ -6,4 +6,4 @@ Negative).
 * we build a model where we use CNN and Glove vectors (where the embedding vectors dimension 200) for
 sentiment analysis
 * We train our model on a Dataset and test this model on a financial news Dataset
-* The accuracy of the model is 72%
+* The accuracy of the model is 71%
